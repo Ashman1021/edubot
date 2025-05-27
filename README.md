@@ -1,6 +1,6 @@
 # EduBot - Academic AI Assistant
 
-EduBot is a Streamlit-based academic AI assistant powered by Google Gemini AI. It helps students and educators with various academic tasks including document analysis, image processing, and web search integration.
+EduBot is a Streamlit-based academic AI assistant powered by Google Gemini. It helps students and educators with various academic tasks including document analysis, image processing, and web search integration.
 
 ## Features
 
